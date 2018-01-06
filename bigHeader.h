@@ -8,6 +8,8 @@
 #include <cstdlib>
 #include <unistd.h>
 
+/*defined by the X/OPEN specification*/
+
 
 
 #endif // BIG_HEADER_H
