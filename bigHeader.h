@@ -7,7 +7,9 @@
 #include <ctime>
 #include <cstdlib>
 #include <unistd.h>
-
+#include <sys/shm.h>
+#include <cstdint>
+#include <cstring>
 /*defined by the X/OPEN specification*/
 
 
